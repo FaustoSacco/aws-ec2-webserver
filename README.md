@@ -102,9 +102,10 @@ The custom webpage loaded successfully.
 You can add a screenshot of your EC2 website like this:
 <img width="578" height="208" alt="Screenshot 2025-11-13 at 21 02 21" src="https://github.com/user-attachments/assets/3a2b0328-6673-4d51-8547-81ab0a583ad3" />
 
-```
-![EC2 Web Server Screenshot](screenshot.png)
-```<img width="642" height="881" alt="Screenshot 2025-11-13 at 21 14 50" src="https://github.com/user-attachments/assets/e0e7c569-501c-4ba1-98a9-4b6a0918b99a" />
+
+<img width="977" height="1077" alt="Screenshot 2025-11-13 at 21 02 38" src="https://github.com/user-attachments/assets/4d123e0d-79c9-40d3-932a-1ef651b1692d" />
+
+
 
 
 ---
@@ -114,4 +115,5 @@ You can add a screenshot of your EC2 website like this:
 **Fausto Sacco**
 Cloud Computing Engineer in Training
 AWS re/Start Student
+
 
